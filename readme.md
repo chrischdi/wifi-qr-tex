@@ -3,6 +3,8 @@
 This small cli-tool creates a simple latex-document containing wifi information.
 Especially it creates a qr-code which could later be scanned by a smartphone to connect to the wifi.
 
+Example: [here](https://github.com/chrischdi/wifi-qr-tex/raw/master/document.pdf).
+
 ## QR-Code
 
 The qr-code is created containing the following string:
