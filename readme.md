@@ -17,6 +17,8 @@ The brackets are replaced by:
 2. Password
 3. Encryption (WEP or WPA)
 
+More [information](https://github.com/zxing/zxing/wiki/Barcode-Contents#wifi-network-config-android)
+
 ## Usage
 
 ```bash
